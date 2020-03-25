@@ -1,4 +1,4 @@
 def using_push
-  array = ["I", "you", "he"]
+  array = ["I", "you"]
   array.push
 end
